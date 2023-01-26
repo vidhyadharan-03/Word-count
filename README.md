@@ -23,7 +23,9 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 
 ## PROGRAM:
+Developed by : R.Vidhyadharan
 
+Register NO : 22008663
 ~~~py
 fname = input("Enter file name: ")
 num_words = 0
